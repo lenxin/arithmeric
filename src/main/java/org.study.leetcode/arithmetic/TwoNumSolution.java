@@ -1,4 +1,4 @@
-package org.study.leetcode;
+package org.study.leetcode.arithmetic;
 
 import org.junit.Test;
 
